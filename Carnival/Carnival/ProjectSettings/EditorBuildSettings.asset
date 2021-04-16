@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HubScene.unity
+    guid: 3f941c34c4b316945a9cd269abfa4cae
+  - enabled: 1
+    path: Assets/Scenes/GunGame.unity
+    guid: 2afa3f72684cdc449ae3d98c2efdc39c
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/BaseballGame.unity
+    guid: 7830e358388b42e408b5ea4bd451179d
+  - enabled: 1
+    path: Assets/Scenes/RingGame.unity
+    guid: e89a5d30439978542959dea994c0e332
+  - enabled: 1
+    path: Assets/Scenes/BasketballGame.unity
+    guid: bc4a2a504da4c804c999cf20cecc7cd2
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e64b1d66177b4c949833dccc952abee6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7bef413fb0dafb646b5fcefd0fcf3636, type: 2}
